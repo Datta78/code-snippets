@@ -1,4 +1,3 @@
-
 // Simple Form Validation - Dattatray Bhosale
 function validateForm() {
     const email = document.getElementById('email').value;
