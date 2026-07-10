@@ -1,4 +1,3 @@
-
 # Simple Web Scraper Example - Dattatray Bhosale
 import requests
 from bs4 import BeautifulSoup
